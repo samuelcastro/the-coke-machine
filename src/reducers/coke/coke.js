@@ -1,6 +1,6 @@
 /*
  *
- * TODO: In a real world situation I would use Redux-Saga or Redux-Oservable to put
+ * TODO: In a real world situation I would use Redux-Saga or Redux-Observable to put
  * all business logic, and slip it out into many redux containers/hoc to inject props
  * using Releselect to cache functions computation with memoization.
  * However, this is a really simple app. I'm not going to worry about it right now. ;)
