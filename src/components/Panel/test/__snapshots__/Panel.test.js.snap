@@ -1,0 +1,60 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Unit Testing <Panel /> Rendering Panel should render <Panel /> correctly 1`] = `
+Array [
+  <section
+    className="coins"
+>
+    <button
+        onClick={[Function]}
+    >
+        Insert 
+        0.25
+    </button>
+    <button
+        onClick={[Function]}
+    >
+        Insert 
+        0.1
+    </button>
+    <button
+        onClick={[Function]}
+    >
+        Insert 
+        0.05
+    </button>
+</section>,
+  <section
+    className="products"
+>
+    <button
+        onClick={[Function]}
+    >
+        Coke
+    </button>
+    <button
+        onClick={[Function]}
+    >
+        Diet Coke
+    </button>
+</section>,
+  <section
+    className="take"
+>
+    <button
+        onClick={[Function]}
+    >
+        Remove Product
+    </button>
+</section>,
+  <section
+    className="coin-return"
+>
+    <button
+        onClick={[Function]}
+    >
+        Coin Return
+    </button>
+</section>,
+]
+`;
